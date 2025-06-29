@@ -1,5 +1,9 @@
 
 # 💰 BudgetWise – Smart Personal Budget & Expense Manager
+![Logo](./src/assets/Logo.png)
+
+**Prepared by:** Het Patel  
+**Date:** June 2025
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-brightgreen?style=for-the-badge&logo=github)](https://het1236.github.io/BudgetWise/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
