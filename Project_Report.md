@@ -194,7 +194,7 @@ src/
 | ![Budget Card](./src/assets/BudgetCard1.png) | ![All Expenses](./src/assets/AllExpenses.png) |
 
 **Demo Video:**  
-[![Watch Demo](./src/assets/Dashboard2.png)](https://drive.google.com/file/d/1XqLxch3LhEmqxVsRD7MaHs9nlLmD8wFC/view?usp=drive_link)
+[▶️ Watch Demo](https://drive.google.com/file/d/1XqLxch3LhEmqxVsRD7MaHs9nlLmD8wFC/view?usp=drive_link)
 
 ---
 
